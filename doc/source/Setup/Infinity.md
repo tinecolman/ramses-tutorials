@@ -40,7 +40,7 @@ python --version  # should be Python 3.13.7 (as of 6 October)
 This step only needs to be done once. Make sure you're in the ramses-env environment (see above).
 
 ```bash
-pip install numpy astropy matplotlib jupyter scipy f90nml yt yt_astro_analysis colossus osyris
+pip install numpy astropy matplotlib jupyter scipy f90nml yt yt_astro_analysis colossus osyris turbustat
 ```
 
 ## Compiling DICE and MUSIC and RAMSES

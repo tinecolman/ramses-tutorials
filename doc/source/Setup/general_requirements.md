@@ -41,6 +41,7 @@ Here is a **list of all required packages**. More details are given below the li
 - yt_astro_analysis # install with pip
 - colossus          # install with pip
 - osyris            # install with pip
+- turbustat         # install with pip
 
 # libraries (used by some third-party codes, e.g. MUSIC, DICE, ... )
 - fftw
@@ -73,6 +74,7 @@ On top of thes general packages we will use more astro-specific packages to visu
 - yt_astro_analysis
 - colossus
 - osyris
+- turbustat
 ```
 
 ### libraries
@@ -135,7 +137,8 @@ Finish the installation with some additional packages best installed with pip by
 ```bash
 pip install yt_astro_analysis
 pip install colossus
-pip install osyris==2.11
+pip install osyris
+pip install turbustat
 ```
 ### Compiling third-party libraries
 
